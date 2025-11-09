@@ -116,19 +116,6 @@ bookStore/
 * Integrate with online payment gateway
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome!
-To contribute:
-
-1. Fork the repo
-2. Create your feature branch (`git checkout -b feature-name`)
-3. Commit your changes (`git commit -m "Added new feature"`)
-4. Push to your branch (`git push origin feature-name`)
-5. Open a Pull Request
-
----
 💬 Author
 
 Developed by: Arpita Bajrang Mali
